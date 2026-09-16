@@ -28,8 +28,8 @@ Esta parte contiene 15 ejercicios de programación realizados en Scala utilizand
 ### 5. Resolución del Ejercicio 13 (Uso de foreach y funciones como valores)
 ![Ejercicio 13](../images/ejercicio-13.PNG)
 
-### 6. Resolución del Ejercicio 15 - Parte 1 (Torneo de Twenty-One y primera ronda)
+### 6. Resolución del Ejercicio 15 - Parte 1 (Código)
 ![Ejercicio 15 Parte 1](../images/ejercicio-15-parte1.PNG)
 
-### 7. Resolución del Ejercicio 15 - Parte 2 (Ampliación, segunda ronda e informe final)
+### 7. Resolución del Ejercicio 15 - Parte 2 (Ejecución y preguntas finales)
 ![Ejercicio 15 Parte 2](../images/ejercicio-15-parte2.PNG)
