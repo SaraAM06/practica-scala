@@ -13,7 +13,7 @@ Esta parte contiene 15 ejercicios de programación realizados en Scala utilizand
 
 ## Evidencias
 
-![JupyterLab con Scala](../images/jupyter-inicio.PNG)
+![JupyterLab con Scala](../images/jupyter-abierto.PNG)
 ![Versión de Scala](../images/scala-version.PNG)
 ![Ejercicio 1](../images/ejercicio-01.PNG)
 ![Ejercicio 9](../images/ejercicio-09.PNG)
