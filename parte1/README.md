@@ -81,6 +81,6 @@ Configuré un nuevo proyecto indicando Scala como lenguaje, sbt como sistema de 
 * **Solución:** Este fallo se debía a una incompatibilidad de la plantilla por defecto con Java 17. Para solucionarlo, actualicé la versión en el archivo `project/build.properties` especificando `sbt.version=1.13.0` y forcé la recarga del proyecto, tras lo cual la estructura de directorios se generó correctamente.
 
 ### Ejecución del código
-Finalmente, creé el objeto `Main` dentro de la ruta `src/main/scala` y ejecuté el programa desde el IDE. *(Se omitieron las tildes en el código para prevenir problemas de codificación nativos de la consola de Windows).*
+Finalmente, creé el objeto `Main` dentro de la ruta `src/main/scala` y ejecuté el programa desde el IDE.
 
 ![Ejecución en IntelliJ](../images/intellij-run.PNG)
