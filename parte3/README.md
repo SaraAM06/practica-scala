@@ -44,11 +44,11 @@ sbt run
 
 ## Capturas
 
-![sbt compile](images/compile_success.png)
-![sbt run](images/run_success.png)
-![ronda 1](images/ronda_1.png)
-![ronda 2](images/ronda_2.png)
-![comparacion y foreach](images/comparacion_foreach.png)
+![sbt compile](../images/compile_success.png)
+![sbt run](../images/run_success.png)
+![ronda 1](../images/ronda_1.png)
+![ronda 2](../images/ronda_2.png)
+![comparacion y foreach](../images/comparacion_foreach.png)
 
 # Parte 3.2 — IntelliJ IDEA + sbt
 
