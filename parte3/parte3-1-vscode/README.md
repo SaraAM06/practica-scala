@@ -80,8 +80,8 @@ Los archivos principales del proyecto son:
 * Se han utilizado arrays (`Array`) para gestionar las calificaciones numéricas de ambas evaluaciones.
 
 ## Capturas
-![sbt compile](images/compile_success_intellij.png)
-![sbt run](images/run_success_intellij.png)
-![ronda 1](images/grupo_1.png)
-![ronda 2](images/grupo_2.png)
-![ultima parte](images/ultima_parte.png)
+![sbt compile](images/compile_success_intellij.PNG)
+![sbt run](images/run_success_intellij.PNG)
+![ronda 1](images/grupo_1.PNG)
+![ronda 2](images/grupo_2.PNG)
+![ultima parte](images/ultima_parte.PNG)
