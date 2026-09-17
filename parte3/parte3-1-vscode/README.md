@@ -49,3 +49,39 @@ sbt run
 ![ronda 1](images/ronda_1.png)
 ![ronda 2](images/ronda_2.png)
 ![comparacion y foreach](images/comparacion_foreach.png)
+
+# Parte 3.2 — IntelliJ IDEA + sbt
+
+## Entorno
+* **IDE:** IntelliJ IDEA Community
+* **Plugins:** Plugin de Scala
+* **Lenguaje:** Scala 2.12.21
+* **JDK:** 17
+* **Herramienta de construcción:** sbt
+
+## Descripción
+Pequeña aplicación en Scala orientada a analizar el rendimiento académico de un grupo de estudiantes a lo largo de dos evaluaciones.
+
+## Estructura
+Los archivos principales del proyecto son:
+
+* `build.sbt`: Archivo de configuración global de sbt que define el nombre del proyecto (`analizador-notas`) y la versión exacta de Scala (`2.12.21`).
+* `src/main/scala/Main.scala`: Archivo principal que encapsula los datos, las funciones modulares y la lógica de ejecución del análisis.
+
+## Funciones utilizadas
+* `aprobado`: Recibe una nota y devuelve un booleano (`true` si es mayor o igual que 5, `false` en caso contrario).
+* `estadoNota`: Evalúa la nota y devuelve el texto `"APROBADO"` o `"SUSPENSO"`.
+* `maxNota`: Compara dos notas y devuelve la mayor de ellas.
+* `clasificacion`: Aplica una estructura condicional anidada (`if`, `else if`, `else`) para etiquetar el rendimiento en cuatro niveles: `EXCELENTE`, `NOTABLE`, `APROBADO` y `SUSPENSO`.
+* Funciones modulares auxiliares de procesamiento (`ejecutarListado`, `obtenerMejorNota`, `obtenerNumeroAprobados`, `obtenerNumeroSuspensos`, `ejecutarClasificacion` y `mejorar`).
+
+## Colecciones e Inmutabilidad
+* Se ha utilizado una `List` para almacenar los nombres de los estudiantes.
+* Se han utilizado arrays (`Array`) para gestionar las calificaciones numéricas de ambas evaluaciones.
+
+## Capturas
+![sbt compile](images/compile_success_intellij.png)
+![sbt run](images/run_success_intellij.png)
+![ronda 1](images/grupo_1.png)
+![ronda 2](images/grupo_2.png)
+![ultima parte](images/ultima_parte.png)
