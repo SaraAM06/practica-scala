@@ -1,0 +1,357 @@
+2026.09.17 10:19:46 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one' for client Visual Studio Code 1.138.0.
+2026.09.17 10:19:46 INFO  Memory monitor started
+2026.09.17 10:19:46 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.17 10:19:47 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+sept 17, 2026 10:19:52 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 6
+sept 17, 2026 10:19:52 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2026.09.17 10:19:52 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:19:53 WARN  Could not find semantic tokens for: file:///C:/Users/AlumnoM_AI/OneDrive%20-%20Tajamar/Escritorio/practica-scala-main/parte3/parte3-1-vscode/torneo-twenty-one/build.sbt
+2026.09.17 10:25:36 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.13.0 -jar C:\Users\ALUMNO~1\AppData\Local\Temp\metals17090518228913134898\sbt-launch.jar -Dbloop.export-jar-classifiers=sources -Dbloop.export-meta-build=true bloopInstall'
+2026.09.17 10:25:36 ERROR [info] [launcher] getting org.scala-sbt sbt 1.13.0  (this may take some time)...
+2026.09.17 10:25:37 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:37 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project\metals.sbt
+2026.09.17 10:25:36 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project\project\metals.sbt
+2026.09.17 10:25:37 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:42 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:42 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\build.sbt
+2026.09.17 10:25:42 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:42 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:42 WARN  Could not find semantic tokens for: file:///C:/Users/AlumnoM_AI/OneDrive%20-%20Tajamar/Escritorio/practica-scala-main/parte3/parte3-1-vscode/torneo-twenty-one/build.sbt
+2026.09.17 10:25:42 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:42 ERROR [info] [launcher] getting Scala 2.12.21 (for sbt)...
+2026.09.17 10:25:44 INFO  [info] Updated file C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project\build.properties: set sbt.version to 1.13.0
+2026.09.17 10:25:44 INFO  [info] welcome to sbt 1.13.0 (Eclipse Adoptium Java 17.0.20.1)
+2026.09.17 10:25:44 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:44 WARN  Could not find semantic tokens for: file:///C:/Users/AlumnoM_AI/OneDrive%20-%20Tajamar/Escritorio/practica-scala-main/parte3/parte3-1-vscode/torneo-twenty-one/build.sbt
+2026.09.17 10:25:46 INFO  [info] loading settings for project torneo-twenty-one-build-build from metals.sbt...
+2026.09.17 10:25:46 INFO  [info] loading project definition from C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project\project
+2026.09.17 10:25:47 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:47 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala
+sept 17, 2026 10:25:47 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 19
+2026.09.17 10:25:47 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:47 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:47 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.09.17 10:25:49 INFO  [info] loading settings for project torneo-twenty-one-build from metals.sbt...
+2026.09.17 10:25:49 INFO  [info] loading project definition from C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project
+2026.09.17 10:25:52 INFO  [success] Generated .bloop\torneo-twenty-one-build.json
+2026.09.17 10:25:52 INFO  [success] Total time: 3 s, completed 17 sept 2026 10:25:52
+2026.09.17 10:25:52 INFO  [info] loading settings for project torneo-twenty-one from build.sbt...
+2026.09.17 10:25:52 INFO  [info] set current project to torneo-twenty-one (in build file:/C:/Users/AlumnoM_AI/OneDrive%20-%20Tajamar/Escritorio/practica-scala-main/parte3/parte3-1-vscode/torneo-twenty-one/)
+2026.09.17 10:25:53 INFO  [success] Generated .bloop\torneo-twenty-one.json
+2026.09.17 10:25:53 INFO  [success] Generated .bloop\torneo-twenty-one-test.json
+2026.09.17 10:25:53 INFO  [success] Total time: 0 s, completed 17 sept 2026 10:25:53
+2026.09.17 10:25:53 INFO  time: ran 'sbt bloopInstall' in 17s
+2026.09.17 10:25:53 INFO  Attempting to connect to the build server...
+2026.09.17 10:25:53 INFO  No running Bloop server found, starting one.
+2026.09.17 10:26:01 INFO  Starting compilation server
+2026.09.17 10:26:03 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\.metals\bsp.trace.json or C:\Users\AlumnoM_AI\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.17 10:26:06 INFO  Attempting to connect to the build server...
+2026.09.17 10:26:06 INFO  Found a Bloop server running
+2026.09.17 10:26:06 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project\.metals\bsp.trace.json or C:\Users\AlumnoM_AI\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.17 10:26:06 INFO  time: Connected to build server in 12s
+2026.09.17 10:26:06 INFO  Connected to Build server: Bloop v2.1.2
+2026.09.17 10:26:06 INFO  time: Imported build in 0.11s
+2026.09.17 10:26:09 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:09 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:09 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:11 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.17 10:26:11 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:11 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:11 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:26:11 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 30
+2026.09.17 10:26:11 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:11 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:26:11 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 35
+2026.09.17 10:26:11 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:11 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:11 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:11 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:12 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:12 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:12 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:13 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:13 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:13 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:13 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:13 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:14 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:14 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:14 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:14 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:14 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:14 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:15 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:14 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:15 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:17 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:17 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:17 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:17 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:18 INFO  Created report: Optional[file:///C:/Users/AlumnoM_AI/OneDrive%20-%20Tajamar/Escritorio/practica-scala-main/parte3/parte3-1-vscode/torneo-twenty-one/src/main/Main.scala]
+2026.09.17 10:26:18 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\.metals\.reports\metals-full\2026-09-17\r_empty-definition_10-26-18-241.md")
+2026.09.17 10:26:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:17 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:18 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala
+2026.09.17 10:26:17 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:19 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:19 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:19 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:19 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:20 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:20 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:22 INFO  time: indexed workspace in 16s
+2026.09.17 10:26:22 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:22 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:22 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:23 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:25 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:25 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:27 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:27 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:27 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:28 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:28 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:28 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:29 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:29 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:28 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:29 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:29 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:30 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:30 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:30 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:30 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:30 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:30 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:33 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:33 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:33 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala
+2026.09.17 10:26:33 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:33 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:26:35 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:27:44 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\ALUMNO~1\AppData\Local\Temp\metals1848223588502459556\sbt-launch.jar -Dbloop.export-jar-classifiers=sources -Dbloop.export-meta-build=true bloopInstall'
+2026.09.17 10:27:46 INFO  [info] welcome to sbt 1.13.0 (Eclipse Adoptium Java 17.0.20.1)
+2026.09.17 10:27:46 INFO  [info] loading settings for project torneo-twenty-one-build-build from metals.sbt...
+2026.09.17 10:27:47 INFO  [info] loading project definition from C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project\project
+2026.09.17 10:27:47 INFO  [info] loading settings for project torneo-twenty-one-build from metals.sbt...
+2026.09.17 10:27:47 INFO  [info] loading project definition from C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project
+2026.09.17 10:27:50 INFO  [success] Generated .bloop\torneo-twenty-one-build.json
+2026.09.17 10:27:50 INFO  [success] Total time: 2 s, completed 17 sept 2026 10:27:50
+2026.09.17 10:27:50 INFO  [info] loading settings for project torneo-twenty-one from build.sbt...
+2026.09.17 10:27:50 INFO  [info] set current project to torneo-twenty-one (in build file:/C:/Users/AlumnoM_AI/OneDrive%20-%20Tajamar/Escritorio/practica-scala-main/parte3/parte3-1-vscode/torneo-twenty-one/)
+2026.09.17 10:27:50 INFO  [success] Generated .bloop\torneo-twenty-one-test.json
+2026.09.17 10:27:50 INFO  [success] Generated .bloop\torneo-twenty-one.json
+2026.09.17 10:27:50 INFO  [success] Total time: 0 s, completed 17 sept 2026 10:27:51
+2026.09.17 10:27:51 INFO  time: ran 'sbt bloopInstall' in 6.66s
+2026.09.17 10:27:51 INFO  Disconnecting from Bloop session...
+2026.09.17 10:27:51 INFO  Shut down connection with build server.
+2026.09.17 10:27:51 INFO  Shut down connection with build server.
+2026.09.17 10:27:51 INFO  Attempting to connect to the build server...
+2026.09.17 10:27:51 INFO  Found a Bloop server running
+2026.09.17 10:27:51 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\.metals\bsp.trace.json or C:\Users\AlumnoM_AI\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.17 10:27:51 INFO  Attempting to connect to the build server...
+2026.09.17 10:27:51 INFO  Found a Bloop server running
+2026.09.17 10:27:51 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\project\.metals\bsp.trace.json or C:\Users\AlumnoM_AI\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.09.17 10:27:51 INFO  time: Connected to build server in 0.25s
+2026.09.17 10:27:51 INFO  Connected to Build server: Bloop v2.1.2
+2026.09.17 10:27:54 INFO  time: indexed workspace in 2.22s
+2026.09.17 10:27:54 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala
+2026.09.17 10:27:54 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:27:54 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:28:47 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.17 10:28:47 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:28:48 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.17 10:28:47 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:01 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:01 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:01 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:01 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:01 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:02 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:01 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:02 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:01 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:03 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:03 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:03 WARN  no build target for: C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala
+2026.09.17 10:30:03 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:30:06 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.17 10:30:07 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:30:16 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.17 10:30:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:30:17 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+sept 17, 2026 10:30:17 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.17 10:30:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:30:17 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.17 10:30:16 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:30:18 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+sept 17, 2026 10:30:18 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.17 10:30:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:30:18 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 192
+2026.09.17 10:30:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:30:18 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+sept 17, 2026 10:30:18 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 194
+2026.09.17 10:30:18 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:19 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+sept 17, 2026 10:30:22 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.09.17 10:30:22 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:31 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:30:40 INFO  no build target found for C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:31:55 INFO  no build target found for c:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\Main.scala. Using presentation compiler with project's scala-library version: 2.12.21
+2026.09.17 10:31:56 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 10:32:09 INFO  time: compiled torneo-twenty-one in 12s
+sept 17, 2026 10:32:43 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 260
+sept 17, 2026 10:36:44 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 793
+sept 17, 2026 10:37:36 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 935
+sept 17, 2026 10:37:37 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 946
+sept 17, 2026 10:37:38 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 960
+2026.09.17 10:38:14 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 10:38:14 INFO  time: compiled torneo-twenty-one in 0.14s
+sept 17, 2026 10:38:59 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1178
+2026.09.17 10:39:21 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 10:39:21 INFO  time: compiled torneo-twenty-one in 0.82s
+sept 17, 2026 10:43:14 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2129
+sept 17, 2026 10:45:03 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2338
+sept 17, 2026 10:45:04 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2357
+sept 17, 2026 10:45:31 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2502
+sept 17, 2026 10:45:48 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2600
+sept 17, 2026 10:45:49 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2609
+sept 17, 2026 10:46:10 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2658
+2026.09.17 10:47:22 INFO  Created report: Optional[file:///C:/Users/AlumnoM_AI/OneDrive%20-%20Tajamar/Escritorio/practica-scala-main/parte3/parte3-1-vscode/torneo-twenty-one/src/main/scala/Main.scala]
+2026.09.17 10:47:22 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\.metals\.reports\metals-full\2026-09-17\r_empty-definition_(torneo-twenty-one)_10-47-22-118.md")
+2026.09.17 10:47:22 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\.metals\.reports\metals-full\2026-09-17\r_empty-definition_(torneo-twenty-one)_10-47-22-118.md")
+sept 17, 2026 10:47:31 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2978
+sept 17, 2026 10:47:35 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3007
+sept 17, 2026 10:47:57 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3084
+sept 17, 2026 10:49:09 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3240
+sept 17, 2026 10:49:09 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3245
+sept 17, 2026 10:49:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3307
+sept 17, 2026 10:49:32 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3342
+Exception in thread "pool-15-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026.09.17 10:51:44 INFO  empty definition using pc, found symbol in pc:  (full report at: "C:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\.metals\.reports\metals-full\2026-09-17\r_empty-definition_(torneo-twenty-one)_10-47-22-118.md")
+sept 17, 2026 10:52:44 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3650
+2026.09.17 10:53:10 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 10:53:10 INFO  time: compiled torneo-twenty-one in 0.21s
+2026.09.17 10:53:25 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 10:53:25 INFO  time: compiled torneo-twenty-one in 0.17s
+2026.09.17 10:53:33 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 10:53:33 INFO  time: compiled torneo-twenty-one in 0.16s
+2026.09.17 10:54:04 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 10:54:04 INFO  time: compiled torneo-twenty-one in 0.8s
+2026.09.17 10:55:02 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 10:55:02 INFO  time: compiled torneo-twenty-one in 0.79s
+sept 17, 2026 10:56:11 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4228
+2026.09.17 11:02:17 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 11:02:17 INFO  time: compiled torneo-twenty-one in 0.82s
+sept 17, 2026 11:04:33 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4716
+sept 17, 2026 11:04:33 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4723
+sept 17, 2026 11:04:34 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4736
+sept 17, 2026 11:04:34 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4737
+sept 17, 2026 11:04:34 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4738
+sept 17, 2026 11:04:38 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4783
+sept 17, 2026 11:04:38 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4785
+sept 17, 2026 11:06:21 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4969
+2026.09.17 11:06:46 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 11:06:46 INFO  time: compiled torneo-twenty-one in 0.15s
+sept 17, 2026 11:08:21 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5204
+sept 17, 2026 11:08:23 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5223
+sept 17, 2026 11:08:57 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5324
+2026.09.17 11:12:22 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 11:12:22 INFO  time: compiled torneo-twenty-one in 0.89s
+2026.09.17 11:21:14 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 11:21:14 INFO  time: compiled torneo-twenty-one in 0.79s
+2026.09.17 11:21:23 INFO  skipping build import with status 'Installed'
+2026.09.17 11:22:24 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 11:22:24 INFO  time: compiled torneo-twenty-one in 0.83s
+2026.09.17 11:24:50 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 11:24:50 INFO  time: compiled torneo-twenty-one in 0.18s
+2026.09.17 11:25:20 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 11:25:20 INFO  time: compiled torneo-twenty-one in 0.79s
+2026.09.17 11:25:41 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 11:25:41 INFO  time: compiled torneo-twenty-one in 0.14s
+2026.09.17 11:25:54 INFO  compiling torneo-twenty-one (1 scala source)
+2026.09.17 11:25:54 INFO  time: compiled torneo-twenty-one in 0.76s
