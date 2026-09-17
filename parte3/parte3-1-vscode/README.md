@@ -30,6 +30,8 @@ Se han utilizado `List` para los nombres inmutables y `Array` para las puntuacio
 - El bucle `while` necesita definir un contador y una variable mutable (`var i = 0`) para controlar el final de la colección.
 - El método `foreach` no necesita contadores ni variables mutables externas. Por ello, el `foreach` se aproxima mucho más al estilo funcional presentado en el material del curso.
 
+![Comparación Foreach](images/comparacion_foreach.png)
+
 ## Problemas y soluciones durante el desarrollo
 
 - **Problema:** Al usar `sbt run`, la terminal devolvía el error `No main class detected` y no compilaba nada.
@@ -39,4 +41,3 @@ Se han utilizado `List` para los nombres inmutables y `Array` para las puntuacio
 
 ```bash
 sbt compile
-sbt run
