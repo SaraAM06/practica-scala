@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\AlumnoM_AI\OneDrive - Tajamar\Escritorio\practica-scala-main\parte3\parte3-1-vscode\torneo-twenty-one\src\main\scala\Main.scala:120:21: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Int => Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m required: String => ?[0m
+[0m[[0m[31merror[0m] [0m[0m  jugadores.foreach(bust)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
