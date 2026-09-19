@@ -77,7 +77,7 @@ Los archivos principales del proyecto son:
 
 ## Colecciones e Inmutabilidad
 * Se ha utilizado una `List` para almacenar los nombres de los estudiantes.
-* Se han utilizado arrays (`Array`) para gestionar las calificaciones numéricas de ambas evaluaciones.
+* Se han utilizado `Array` para gestionar las calificaciones numéricas de ambas evaluaciones.
 
 ## Capturas
 ![sbt compile](../images/compile_success_intellij.PNG)
